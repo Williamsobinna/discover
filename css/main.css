@@ -1,0 +1,422 @@
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  
+  
+  .home{
+    justify-content: space-between;
+     background-color: white;
+  padding-bottom: 20px;
+    
+     
+  }
+ 
+
+
+  .homeitems {
+    list-style: none;
+    display: flex;
+    color: black;
+    padding-top: 15px;
+    font-family: sans-serif;
+}
+
+  .phonelink{
+   padding-right: 20px;
+   padding-left: 80px;
+  
+  }
+   .smarthomelink{
+    padding-right: 20px;
+   }
+   .lifestylelink{
+    padding-right: 20px;
+   }
+   .discoverlink{
+    padding-left: 700px;
+   }
+   .supportlink{
+    padding-left: 40px;
+   }
+   
+    
+  
+    .another{
+        justify-content: space-between;
+        
+       
+    }
+      .anotheritems{
+        list-style: none;
+        display: flex;
+        font-family: sans-serif;
+        
+       
+        
+        
+      }
+       .recommendedlink{
+        padding-left:350px;
+        color: orangered;
+        padding-top: 20px;
+        
+       }
+       .articleslink{
+        padding-left: 40px;
+        padding-top: 20px;
+       }
+       .videoslink{
+        padding-left: 40px;
+        padding-top: 20px;
+       }
+       .newsroomlink{
+        padding-left: 40px;
+        padding-top: 20px;
+       }
+       .eventslink{
+        padding-left: 40px;
+         padding-top: 20px;
+       }
+         .anotheritems a{
+        text-decoration: none;
+        color: black;
+         
+       }
+       .discoverlink{
+        color: orangered;
+       }
+        .morelink{
+            padding-left: 40px;
+            padding-top: 20px;
+        }
+    
+    
+     .phone{
+      text-align: center;
+      padding-top: 30px;
+      font-family: sans-serif;
+     }
+      
+        
+      .design{
+        text-align: center;
+        font-family: sans-serif;
+      } 
+     
+
+       .homeitems a{
+       text-decoration: none;
+       color: black;
+       
+       }
+       .support{
+        text-align: center;
+        padding-top: 30px;
+        font-family: sans-serif;
+       }
+            
+      .bar{
+        text-align: center;
+        padding-top: 30px;
+
+      }    
+
+       
+      .discoverimage1{
+       width: 90%;
+        padding-left: 90px;
+        padding-top: 80px;
+      }
+      .discoverimage2{
+        width: 40%;
+        padding-left: 90px;
+        padding-top: 20px;
+      }
+       
+       .discoverimage3{
+        width: 40%;
+        padding-left: 800px;
+       position: absolute;
+        top: 515.5px;
+        right: 150px;
+       }
+     .more{
+      text-align:center ;
+     }
+      .phoneimage1{
+      padding-top: 50px;
+      width: 100%;
+      }
+      
+      
+       .phone2{
+        padding-left: 200px;
+        padding-top: 50px;
+        font-family: sans-serif;
+       }
+     
+       .design2{
+       padding-left: 200px;
+        padding-top: 5px;
+        font-family: sans-serif;
+       } 
+       .learnmore1{
+        padding-top: 50px;
+        padding-left: 210px;
+       }
+       .phoneimage2{
+        padding-left: 760px;
+        width: 30%;
+        position: absolute;
+       top: 350px;
+       }
+       .new{
+        padding-left: 760px;
+        position: absolute;
+        top: 400px;
+        font-family: sans-serif;
+       }
+       .new2{
+        padding-left: 765px;
+       position: absolute;
+       top: 450px;
+       }
+       .phoneimage3{
+        padding-left: 100px;
+       }
+        .phone3{
+          padding-left: 900px;
+          position: absolute;
+          top: 710px;
+          font-family: sans-serif;
+        }
+         .design3{
+          padding-left: 800px;
+          position: absolute;
+          top: 750px;
+          font-family: sans-serif;
+         }
+       
+      .talk{
+       padding-left: 100px;
+       padding-top: 20px;
+       font-family: sans-serif;
+      }
+       .talk2{
+        font-family: sans-serif;
+        padding-left: 100px;
+        padding-top: 10px;
+       } 
+       .learnmore2{
+       padding-left: 950px;
+       position: absolute;
+       top: 815px;
+       }
+       .phoneimage4{
+        padding-left: 800px;
+        position: absolute;
+        top: 835px;
+       }
+       .phone4{
+        text-align: center;
+        font-family: sans-serif;
+       }
+       .design4{
+        text-align: center;
+        font-family: sans-serif;
+        padding-top: 5px;
+       }
+        .more2{
+          text-align: center;
+          padding-top: 20px;
+        }
+         .phoneimage5{
+          width: 100%;
+          padding-left: 0px;
+          padding-top: 50px;
+         }
+     
+       .tired{
+        padding-left: 200px;
+        padding-top: 20px;
+        font-family: sans-serif;
+       }
+         .design5{
+          padding-left: 230px;
+          padding-top: 10px;
+          font-family: sans-serif;
+         } 
+         .tired2{
+          padding-left: 950px;
+          position: absolute;
+          top: 1785px;
+          font-family: sans-serif;
+         } 
+         .heyy{
+          padding-left: 950px;
+          position: absolute;
+          top: 1825px;
+          font-family: sans-serif;
+         }
+          .phoneimage6{
+            padding-left: 100px;
+          }    
+          .learnmore3{
+            padding-left: 250px;
+            padding-top: 40px;
+          }
+    
+        .phoneimage7{
+          padding-left: 850px;
+          position: absolute;
+          top: 1900px;
+        }
+         .learnmore4{
+         padding-left: 1000px; 
+         position: absolute;
+         top:1880px;
+         }
+       .talk3{
+        padding-top: 20px;
+        padding-left: 100px;
+        font-family: sans-serif;
+       }
+       .talk4{
+        padding-left: 670px;
+        position: absolute;
+        top: 780px;
+        font-family: sans-serif;
+       }
+       .talk5{
+        padding-left: 670px;
+        padding-top: 10px;
+       position: absolute;
+       top: 820px;
+       font-family: sans-serif;
+       list-style: none;
+       }
+       .discoverimage4{
+        width: 40%;
+        padding-left: 90px;
+        padding-top: 30px;
+       }
+       .discoverimage5{
+        width: 40%;
+        padding-left: 700px;
+       position: absolute;
+       top: 910px;
+       left: -70px;
+       }
+       .talk6{
+        padding-left: 110px;
+        font-family: sans-serif;
+        padding-top: 20px;
+       }
+       .talk7{
+        padding-left: 680px;
+        position: absolute;
+        top: 1185px;
+        font-family: sans-serif;
+       }
+       .discoverimage6{
+        width: 40%;
+        padding-left: 90px;
+        padding-top: 30px;
+       }
+       .discoverimage7{
+        width: 40%;
+        padding-left: 700px;
+        position: absolute;
+        top: 1235px;
+       left: -70px;
+       }
+       .talk8{
+        padding-left: 110px;
+        font-family: sans-serif;
+        padding-top: 20px;
+       }
+       .talk9{
+        padding-left: 680px;
+        position: absolute;
+        top: 1500px;
+        font-family: sans-serif;
+       }
+       .discoverimage8{
+        width: 40%;
+        padding-left: 90px;
+       padding-top: 20px;
+       }
+       .discoverimage9{
+       width: 40%;
+       padding-left: 630px;
+      position: absolute;
+      top: 1545px;
+       }
+       .talk10{
+        padding-left: 110px;
+        font-family: sans-serif;
+        padding-top: 20px;
+       }
+       .talk11{
+        padding-left: 680px;
+        font-family: sans-serif;
+        position: absolute;
+        top: 1810px;
+       }
+       .talk12{
+        padding-left: 680px;
+        font-family: sans-serif;
+        position: absolute;
+        top: 1845px;
+       
+       }
+       .discoverimage10{
+        width: 40%;
+        padding-left: 90px;
+        padding-top: 30px;
+       }
+       .discoverimage11{
+        padding-left: 630px;
+        width: 40%;
+        position: absolute;
+        top: 1870px;
+       }
+       .home2items{
+        list-style: none;
+        padding-top: 100px;
+        display: flex;
+        font-family: sans-serif;
+       }
+       .accountservicelink{
+        color: black;
+      
+        padding-left: 200px;
+       }
+       .findmydevicelink{
+         color: black;
+         padding-left: 200px;
+       }
+       .warrantypolicylink{
+        color: black;
+        padding-left: 200px;
+       }
+       .userguidelink{
+        color: black;
+        padding-left: 200px;
+       }
+       .supportimage1{
+        width: 45%;
+        padding-left: 20px;
+        padding-top: 50px;
+       }
+       .supportimage2{
+        width: 45%;
+        padding-left: 700px;
+        position: absolute;
+        top: 330px;
+        left: -40px;
+       
+       }
